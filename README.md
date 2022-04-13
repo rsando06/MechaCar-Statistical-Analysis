@@ -12,7 +12,7 @@ The Upper management of AutosRUs have asked the data analytics team to review th
 
 ## Summary
 ### Linear Regression to Predict MPG
-
+![Summary_Linear_Model](Images/Summary_Linear_Model.png)
 - Based on the linear model, vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset.
 - The p-value of 5.35e-11, which is lower than 0.05, shows that there is strong evidence against the null hypothesis of the slope being 0. This means we can accept the alternative hypothesis of the slope not being 0.
 - The multiple r-squared value of 0.7149 shows that about 71.49% of the variance in the mpg predictions can be explained by the linear model. This shows that the model effectively predicts the mpg of MechaCar prototypes.
